@@ -9,10 +9,10 @@ public class Main {
 
 	}
 	public static double returnAverage(ArrayList<Measurable> list) {
-		double sum=0.0;
+		
 		//Add code for this method
 		
-		return sum;
+		
 	}
 
 }

@@ -12,8 +12,8 @@ public class Main {
 		double velocity=50;
 		double value= 300000;
 		int numberofseat=50;
-		TaxableBus b1= new TaxableBus(numberofseat, regno, value,velocity);
-		//TaxableBus b2= new TaxableBus(10, 345678, 25000,10); 
+		TaxableBus b1= new TaxableBus(regno, value,velocity, numberofseat);
+		TaxableBus b2= new TaxableBus(345678, 25000,10, 10); 
 
 		list.add(h1);
 		list.add(h2);

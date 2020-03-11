@@ -8,8 +8,12 @@ public class Main {
 
 		TaxableHouse h1= new TaxableHouse("Aalborg", true, 700, 500000);
 		TaxableHouse h2= new TaxableHouse("Skjern", true, 1800, 300000);
-		TaxableBus b1= new TaxableBus(50, 12345, 300000);
-		TaxableBus b2= new TaxableBus(10, 345678, 25000); 
+		int regno=12345;
+		double velocity=50;
+		double value= 300000;
+		int numberofseat=50;
+		TaxableBus b1= new TaxableBus(numberofseat, regno, value,velocity);
+		//TaxableBus b2= new TaxableBus(10, 345678, 25000,10); 
 
 		list.add(h1);
 		list.add(h2);

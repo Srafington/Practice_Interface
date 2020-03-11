@@ -37,5 +37,7 @@ In this assignment you are going to learn how to create an interface, how to imp
   - Define a method call **public static returnAverage(ArrayList<Measurable> list)** that returns the average of any list of objects that are *Measurable*.
   - Now calculate and print the average tution fees for a student and the average price of an item. 
 
-
+# Grading
+- You will get 2 marks for submitting during tutorial class.
+- Another 2 marks for completing all tasks. 
 

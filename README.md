@@ -23,6 +23,7 @@ In this assignment you are going to learn how to create an interface, how to imp
       -- If the house is located within the city : Tax=0.005% of the estimated price of the house for each square foot.
       
       -- Else Tax=0.001% of the price for each square foot.
+- Use the given *Main* class to show that your program works. You may make changes in *Main* if you want.
 - Notice that both class House and Bus have a superclass, namely FixedProperty and Vehicle, respectively. Therefore it is essential that taxation is introduced via an interface.
 
 # Task 2
